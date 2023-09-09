@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aaditya, a full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">I'm Aaditya, full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
   
 
 - 🔭 I’m currently working on Web-3 Project  
