@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://i.pinimg.com/564x/86/c2/7c/86c27c4201a2470f67f315e757ca40f4.jpg" align="center" style="width: 100%" />
-</div>  
+  ![space](https://github.com/AadityaP1811/AadityaP1811/assets/94757097/6e697c31-7d23-4f15-855d-22d59f98ceb4)
+
+  
   
 
 ### <div align="center">I'm Aaditya, full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
@@ -98,7 +99,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+If things goes well, Ill start writting blogs soon 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
