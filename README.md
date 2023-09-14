@@ -1,9 +1,6 @@
 <div align="center">
-  ![space](https://github.com/AadityaP1811/AadityaP1811/assets/94757097/6e697c31-7d23-4f15-855d-22d59f98ceb4)
-
-  
-  
-
+<img src="C:\Users\Lenovo\Desktop\space.jpeg" align="center" style="width: 100%" />
+</div>
 ### <div align="center">I'm Aaditya, full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
   
 
