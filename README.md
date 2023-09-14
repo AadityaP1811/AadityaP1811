@@ -1,8 +1,5 @@
 <div align="center">
-
-![space](https://github.com/AadityaP1811/AadityaP1811/assets/94757097/2f0d6d53-5485-46c0-9319-934069321a19)
-width="100%"
-  
+![space](https://github.com/AadityaP1811/AadityaP1811/assets/94757097/2f0d6d53-5485-46c0-9319-934069321a19)  
 </div>
 ### <div align="center">I'm Aaditya, full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
   
