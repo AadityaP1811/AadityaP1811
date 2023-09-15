@@ -1,22 +1,23 @@
 <div align="center">
 
-![space](https://github.com/AadityaP1811/AadityaP1811/assets/94757097/095ff975-c704-498d-85ae-dba09a2485ef)
+
+![Aaditya Parmar](https://github.com/AadityaP1811/AadityaP1811/assets/94757097/75a4974f-363b-43b4-9267-0c0dbbec7f51)
 
 
 </div>
-<div align="center">I'm Aaditya -->  👨‍💻 Software Developer  | MERN-stack | Python |  C++ 🚀</div>  
+<div align="center">I'm Aaditya 👨‍💻 Software Developer  | MERN-stack | Python |  C++ 🚀</div>  
   
 
-- 🔭 I’m currently working on Web-3 Project  
+- 🔭  working on Web-3 Project  
   
 
-- 🌱 I’m currently learning Flutter and using Figma
+- 🌱 learning Flutter and Figma
   
 
-- ❓ Ask me about anything related to Technologies and Cinematography or Photography
+- ❓ Ask me about anything related to Technologies and Cinematography
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Riddle  : What lies behind the Mountains?
   
 
 <br/>  
@@ -65,7 +66,7 @@
 <a href="https://linkedin.com/in/aadityaparmar13" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/aaadi.io" target="_blank">
+<a href="https://instagram.com/notaaditya" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
