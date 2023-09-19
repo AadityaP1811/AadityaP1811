@@ -17,7 +17,7 @@
 - ❓ Ask me about anything related to Technologies and Cinematography
   
 
-- ⚡ Riddle  : What lies behind the Mountains?
+
   
 
 <br/>  
