@@ -14,7 +14,7 @@
 - 🌱 learning Flutter and Figma
   
 
-- ❓ Ask me about anything related to Technologies and Cinematography
+- ❓  Work?
   
 
 
