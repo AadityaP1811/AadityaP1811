@@ -8,7 +8,7 @@
 <div align="center">I'm Aaditya 👨‍💻 Software Developer  | MERN-stack | Python |  C++ 🚀</div>  
   
 
-- 🔭  working on Web-3 Project  
+- 🔭  working on a Web-3 Project  
   
 
 - 🌱 learning Flutter and Figma
